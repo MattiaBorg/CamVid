@@ -1,4 +1,4 @@
-# Semantic_segmentation-Cam_Vid
+# Semantic_segmentation-CamVid
 
 This project was developed as part of a university course on Deep Learning.  
 It focuses on semantic segmentation using the CamVid dataset, which contains annotated driving scenes.  
